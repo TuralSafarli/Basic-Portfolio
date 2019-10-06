@@ -4,7 +4,7 @@
     
 }
 body{
-    background-color: #ffffff;
+    background-image: url(../images/halftone.png);
 }
 .container{
     width: 960px;
@@ -20,6 +20,7 @@ section{
     float: left;
     margin-bottom: 60px;
     color: #777777;
+    background-color: #ffffff;
 }
 h4{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -57,6 +58,7 @@ aside{
     float: right;
     margin-top: 30px;
     padding: 25px 25px 25px 25px;
+    background-color: #ffffff;
     
     
 }
